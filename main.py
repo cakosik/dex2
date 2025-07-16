@@ -14,7 +14,7 @@ import re
 import os
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = "8112953231:AAHe0aRWs7fUfoUqaTXdc5bwBBqP0JZnUOE"
+BOT_TOKEN = "8060714191:AAHFe30t5RTBcqeBoAo4OqtZOFZOQevyNa8"
 ADMIN_IDS = [8183369219 , 8181544644]  # ID всех админов
 MAIN_ADMIN_ID = 6194786755  # Главный админ
 
